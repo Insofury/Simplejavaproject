@@ -1,7 +1,7 @@
 <html>
 <body>
 
-<h2>Jenkins Sample Integration and Deployment of WAR file into TOMCAT</h2>
+<h2>Jenkins Sample Integration and Deployment of WAR file into Hello</h2>
 
 <p id="demo"></p>
 
